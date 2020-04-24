@@ -130,7 +130,7 @@ a:hover {
 }
 /* SAB */
 .Background {
-  background-image: url("/Users/zlatinaaleksandrova/Desktop/WORK WORK WORK WORK WORK WORK /CSS-My site/Images/SAB7.png");
+  background-image: url("SAB7.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -154,7 +154,7 @@ a:hover {
 
 /* IR */
 .Background2 {
-  background-image: url("/Users/zlatinaaleksandrova/Desktop/WORK WORK WORK WORK WORK WORK /CSS-My site/Images/IR6.png");
+  background-image: url("IR6.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -178,7 +178,7 @@ a:hover {
 
 /* 3Shape */
 .Background3 {
-  background-image: url("/Users/zlatinaaleksandrova/Desktop/WORK WORK WORK WORK WORK WORK /CSS-My site/Images/3Shape3.png");
+  background-image: url("3Shape3.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -201,7 +201,7 @@ a:hover {
 
 /* G2 */
 .Background4 {
-  background-image: url("/Users/zlatinaaleksandrova/Desktop/WORK WORK WORK WORK WORK WORK /CSS-My site/Images/G24.png");
+  background-image: url("G24.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -232,7 +232,7 @@ a:hover {
 
 /* TED */
 .Background5 {
-  background-image: url("/Users/zlatinaaleksandrova/Desktop/WORK WORK WORK WORK WORK WORK /CSS-My site/Images/TED2.png");
+  background-image: url("TED2.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -255,7 +255,7 @@ a:hover {
 
 /* TSA */
 .Background6 {
-  background-image: url("/Users/zlatinaaleksandrova/Desktop/WORK WORK WORK WORK WORK WORK /CSS-My site/Images/Home2.png");
+  background-image: url("Home2.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-attachment: fixed;
