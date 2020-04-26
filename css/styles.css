@@ -373,8 +373,8 @@ width:140px;
     }
   }
 
-  @media (min-width:(767px)) {
-    #Experience {
-      background-attachment: scroll;
+@media (max-width: 1028)) {
+    .Body {
+      position: static;
     }
   }
