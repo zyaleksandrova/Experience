@@ -372,6 +372,11 @@ width:140px;
       position: static;
     }
   }
+@media (max-width:767) {
+    .container-fluid {
+      position: static;
+    }
+  }
 
 
   @media (max-width: 767px) {
