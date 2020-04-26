@@ -367,14 +367,16 @@ width:140px;
 }
 
 
-@media (max-width:(1028px)) {
+@media (max-width:1028px) {
     .container-fluid {
       position: static;
     }
   }
 
-@media (max-width: 1028)) {
+
+  @media (max-width: 767px) {
     .Body {
-      position: static;
-    }
-  }
+     background-attachment: initial;
+    }   
+ }
+  
