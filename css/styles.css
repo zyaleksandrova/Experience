@@ -131,7 +131,7 @@ a:hover {
 /* SAB */
 .Background {
   background-image: url("SAB7.png");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
