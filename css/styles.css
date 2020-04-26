@@ -376,7 +376,7 @@ width:140px;
 
   @media (max-width: 767px) {
     .Body {
-     background-attachment: initial;
+     position: static;
     }   
  }
   
