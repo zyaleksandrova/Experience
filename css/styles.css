@@ -367,8 +367,14 @@ width:140px;
 }
 
 
-@media (max-width:(1028px) {
+@media (max-width:(1028px)) {
     .container-fluid {
       position: static;
+    }
+  }
+
+  @media (min-width:(767px)) {
+    #Experience {
+      background-attachment: scroll;
     }
   }
