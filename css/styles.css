@@ -376,7 +376,7 @@ width:140px;
 
   @media (max-width: 767px) {
     .Body {
-     position: static;
-    }   
+     background-attachment: scroll;
+	  }   
  }
   
