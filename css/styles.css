@@ -155,7 +155,7 @@ a:hover {
 /* IR */
 .Background2 {
   background-image: url("ir6.png");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
@@ -179,7 +179,7 @@ a:hover {
 /* 3Shape */
 .Background3 {
   background-image: url("3Shape3.png");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
@@ -202,7 +202,7 @@ a:hover {
 /* G2 */
 .Background4 {
   background-image: url("G24.png");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
@@ -233,7 +233,7 @@ a:hover {
 /* TED */
 .Background5 {
   background-image: url("TED2.png");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
@@ -256,7 +256,7 @@ a:hover {
 /* TSA */
 .Background6 {
   background-image: url("Home2.png");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
