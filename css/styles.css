@@ -375,7 +375,8 @@ width:140px;
 
 @media screen and (max-width: 776px) {
     .Background {
-        background-size: 30%;
+        background-size: 50%;
+	background-attachment: fixed;
         text-align: left;
         font-size: 0.8rem;
     }
