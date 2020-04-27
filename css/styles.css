@@ -373,6 +373,15 @@ width:140px;
     }
   }
 
-
+@media screen and (max-width: 776px) {
+    .Background {
+        background-size: 30%;
+        text-align: left;
+        font-size: 0.8rem;
+    }
+    .SAB-title {
+        padding-top:25%;
+    }
+    }
 
   
